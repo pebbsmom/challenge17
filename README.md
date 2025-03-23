@@ -23,6 +23,10 @@ A full-featured NoSQL API for a social media app, built with TypeScript, Express
 
 👉 
 
+https://github.com/user-attachments/assets/043d1ebf-b50e-4cac-b66f-b2dfbe6e1eef
+
+
+
 ## 📂 API Endpoints
 
 ### Users
