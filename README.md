@@ -1,6 +1,6 @@
 # Project Title: Social Network API ![License](https://img.shields.io/badge/License-MIT-yellow.svg)
 ## Description 
-This API is designed to be used in a social network web application where users can share their thoughts, react to friends' thought, and createa friend list.  It uses Express.js for routing, a MongoDB database, and the Mongoose ODM.  
+This API is designed to be used in a social network web application where users can share their thoughts, react to friends' thought, and create a friend list.  It uses Express.js for routing, a MongoDB database, and the Mongoose ODM.  
 ## Table of Contents
 * [Installation](#installation)
 * [Usage](#usage)
