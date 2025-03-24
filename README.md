@@ -15,6 +15,8 @@ GitHub Link https://github.com/pebbsmom/challenge17
 In order to use this application, after typing 'npm run start' , open Insomnia to localhost : 3001.  You can then test out the various API endpoints.
 Walkthrough Video
 https://github.com/user-attachments/assets/043d1ebf-b50e-4cac-b66f-b2dfbe6e1eef
+
+
 API Endpoints
 Users
 
