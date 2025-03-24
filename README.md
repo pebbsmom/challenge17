@@ -9,17 +9,13 @@ This API is designed to be used in a social network web application where users 
 * [Tests](#tests)
 * [Questions](#questions)
 ## Installation
-  GitHub Link https://github.com/pebbsmom/challenge17
+GitHub Link https://github.com/pebbsmom/challenge17
 1) Clone this repo onto your local computer using 'git clone'. 2) Make sure you install all the necessary dependencies by running 'npm i' in the terminal. 3) Build the application using 'npm run build' 4) Create and seed the database using 'npm run seed' 5) Start the API by running 'npm run start'
 ## Usage
 In order to use this application, after typing 'npm run start' , open Insomnia to localhost : 3001.  You can then test out the various API endpoints.
-
 Walkthrough Video
 https://github.com/user-attachments/assets/043d1ebf-b50e-4cac-b66f-b2dfbe6e1eef
-
-
 API Endpoints
-
 Users
 
 - `GET /api/users` - Get all users
@@ -41,7 +37,7 @@ Users
 - `DELETE /api/thoughts/:thoughtId/reactions/:reactionId` - Delete reaction
  
 ## License
-    This project is licensed under the MIT license. [MIT](https://opensource.org/licenses/MIT)
+This project is licensed under the MIT license. [MIT](https://opensource.org/licenses/MIT)
 ## Contributing
 Many thanks to Dan M. for his assistance and the TAs in the class.  Additionally, Copilot was used for code suggestions and debugging.
 ## Tests
