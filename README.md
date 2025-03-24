@@ -1,33 +1,26 @@
-# Social Network API
+# Project Title: Social Network API ![License](https://img.shields.io/badge/License-MIT-yellow.svg)
+## Description 
+This API is designed to be used in a social network web application where users can share their thoughts, react to friends' thought, and createa friend list.  It uses Express.js for routing, a MongoDB database, and the Mongoose ODM.  
+## Table of Contents
+* [Installation](#installation)
+* [Usage](#usage)
+* [Walkthrough Video](#walkthrough video)
+* [GitHub Link](#github link)
+* [License](#license)
+* [Contributing](#contributing)
+* [Tests](#tests)
+* [Questions](#questions)
+## Installation
+1) Clone this repo onto your local computer using 'git clone'. 2) Make sure you install all the necessary dependencies by running 'npm i' in the terminal. 3) Build the application using 'npm run build' 4) Create and seed the database using 'npm run seed' 5) Start the API by running 'npm run start'
+## Usage
+In order to use this application, after typing 'npm run start' , open Insomnia to localhost : 3001.  You can then test out the various API endpoints.
 
-A full-featured NoSQL API for a social media app, built with TypeScript, Express, and MongoDB.
-
-## 🚀 Features
-
-- Users can:
-  - Create/update/delete accounts
-  - Add/remove friends
-- Thoughts can:
-  - Be created, updated, and deleted
-  - Include reactions (add/remove)
-- Data served in clean JSON format
-
-## 🛠 Tech Stack
-
-- TypeScript
-- Express.js
-- MongoDB + Mongoose
-- RESTful Routing
-
-## ▶️ Walkthrough Video
-
-👉 
-
+## Walkthrough Video
 https://github.com/user-attachments/assets/043d1ebf-b50e-4cac-b66f-b2dfbe6e1eef
 
+## GitHub Link
 
-
-## 📂 API Endpoints
+## API Endpoints
 
 ### Users
 
@@ -49,10 +42,19 @@ https://github.com/user-attachments/assets/043d1ebf-b50e-4cac-b66f-b2dfbe6e1eef
 - `POST /api/thoughts/:thoughtId/reactions` - Add reaction
 - `DELETE /api/thoughts/:thoughtId/reactions/:reactionId` - Delete reaction
 
-## 📦 Installation
+ 
 
-```bash
-git clone https://github.com/your-username/challenge17.git
-cd challenge17
-npm install
-npm run dev
+
+## License
+    This project is licensed under the MIT license. [MIT](https://opensource.org/licenses/MIT)
+## Contributing
+Many thanks to Dan M. for his assistance and the TAs in the class.  Additionally, Copilot was used for code suggestions and debugging.
+## Tests
+In order to test the application, create the HTTP requests in Insomnia and verify that they work.  
+## Questions
+To reach me with additional questions please contact me at:
+perezteri@hotmail.com  
+GitHub : [pebbsmom](https://github.com/pebbsmom)
+
+
+
