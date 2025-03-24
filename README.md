@@ -25,6 +25,7 @@ https://github.com/user-attachments/assets/e37a9b59-bd90-4610-808f-8ea1cd5a0ee2
 
 
 API Endpoints
+
 Users
 
 - `GET /api/users` - Get all users
