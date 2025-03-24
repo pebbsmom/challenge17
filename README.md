@@ -13,8 +13,12 @@ GitHub Link https://github.com/pebbsmom/challenge17
 1) Clone this repo onto your local computer using 'git clone'. 2) Make sure you install all the necessary dependencies by running 'npm i' in the terminal. 3) Build the application using 'npm run build' 4) Create and seed the database using 'npm run seed' 5) Start the API by running 'npm run start'
 ## Usage
 In order to use this application, after typing 'npm run start' , open Insomnia to localhost : 3001.  You can then test out the various API endpoints.
-Walkthrough Video
-https://github.com/user-attachments/assets/043d1ebf-b50e-4cac-b66f-b2dfbe6e1eef
+Walkthrough Video 
+
+
+
+https://github.com/user-attachments/assets/764902cb-4491-4d14-9211-6d692934220a
+
 
 
 API Endpoints
